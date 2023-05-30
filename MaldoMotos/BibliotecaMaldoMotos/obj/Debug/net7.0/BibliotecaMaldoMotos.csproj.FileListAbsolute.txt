@@ -1,0 +1,12 @@
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\bin\Debug\net7.0\BibliotecaMaldoMotos.deps.json
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\bin\Debug\net7.0\BibliotecaMaldoMotos.dll
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\bin\Debug\net7.0\BibliotecaMaldoMotos.pdb
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\BibliotecaMaldoMotos.csproj.AssemblyReference.cache
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\BibliotecaMaldoMotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\BibliotecaMaldoMotos.AssemblyInfoInputs.cache
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\BibliotecaMaldoMotos.AssemblyInfo.cs
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\BibliotecaMaldoMotos.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\BibliotecaMaldoMotos.dll
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\refint\BibliotecaMaldoMotos.dll
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\BibliotecaMaldoMotos.pdb
+C:\Users\herna\source\repos\BibliotecaMaldoMotos\obj\Debug\net7.0\ref\BibliotecaMaldoMotos.dll
